@@ -8,7 +8,14 @@ input{
     width: 100%;
 }
 
-.todo-Containerr{
+.todo-Container {
     text-align: left;
 }
 
+.kg-row {
+    margin: 10px 5px;
+} 
+
+.kg-button {
+   min-width: 80px;
+}
