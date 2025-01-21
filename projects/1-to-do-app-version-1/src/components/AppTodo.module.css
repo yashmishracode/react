@@ -1,7 +1,17 @@
-.kg-row {
+.kgRow {
     margin: 10px 5px;
 } 
 
-.kg-button {
+.kgButton {
    min-width: 80px;
+}
+
+.todoContainer {
+    text-align: left;
+}
+
+.kgInput{
+    margin: 10px 5px;
+    width: 80%;
+    text-align: left;
 }
