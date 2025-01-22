@@ -1,9 +1,14 @@
 .kgitem {
-    text-align: center;
     background-color: khaki;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
 }
 
 .kgspan{
     font-weight: 650;
     color: blue;
+}
+.button{
+    float:right;
 }
